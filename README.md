@@ -1,24 +1,4 @@
 # tr-http
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+VueCLIとFireBaseを利用してコメント投稿サイトを学習  
+ログイン機能とコメント投稿機能を実装  
+トークンの発行などを学習
